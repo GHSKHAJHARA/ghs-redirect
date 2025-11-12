@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/www/(.*)",
-      "destination": "https://ghskhajhara.vercel.app/$1",
-      "permanent": true
-    }
-  ]
-}
